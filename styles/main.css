@@ -179,10 +179,12 @@ footer{
 }
 
 .hidden-on-lg{
-  display: none;
+  max-width: 480px;
+  display: block; 
 }
 .hidden-on-sm{
-  display: block;
+  max-width: 480px;
+  display: none;
 }
 
 /* 
