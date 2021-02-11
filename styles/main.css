@@ -200,7 +200,7 @@ footer{
     width: 256px;
   }
 
-  .row{
+  .row {
     display: flex;
     flex-direction: row-reverse;
   }
@@ -252,4 +252,9 @@ to   { opacity: 1; }
 @-o-keyframes fadein {
 from { opacity: 0; }
 to   { opacity: 1; }
+}
+
+.article {
+  background-color: black;
+
 }
